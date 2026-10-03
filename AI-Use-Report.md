@@ -8,7 +8,7 @@
 
 ## Did your team use GitHub Copilot?
 
-- [ ] No
+- [x] No
 - [ ] Yes
 
 If yes, complete the sections below.
